@@ -1,0 +1,43 @@
+C:\Documents and Settings\Nevzat\Belgelerim\Visual Studio 2008\projects\NetOgrenci\NetOgrenci\bin\Debug\NetOgrenci.exe
+C:\Documents and Settings\Nevzat\Belgelerim\Visual Studio 2008\projects\NetOgrenci\NetOgrenci\bin\Debug\NetOgrenci.pdb
+C:\Documents and Settings\Nevzat\Belgelerim\Visual Studio 2008\projects\NetOgrenci\NetOgrenci\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nevzat\Belgelerim\Visual Studio 2008\projects\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.Form1.resources
+C:\Documents and Settings\Nevzat\Belgelerim\Visual Studio 2008\projects\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.Properties.Resources.resources
+C:\Documents and Settings\Nevzat\Belgelerim\Visual Studio 2008\projects\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.csproj.GenerateResource.Cache
+C:\Documents and Settings\Nevzat\Belgelerim\Visual Studio 2008\projects\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.exe
+C:\Documents and Settings\Nevzat\Belgelerim\Visual Studio 2008\projects\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.pdb
+C:\Documents and Settings\Nevzat\Desktop\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.exe
+C:\Documents and Settings\Nevzat\Desktop\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.pdb
+C:\Documents and Settings\Nevzat\Desktop\NetOgrenci\NetOgrenci\bin\Debug\NetOgrenci.exe
+C:\Documents and Settings\Nevzat\Desktop\NetOgrenci\NetOgrenci\bin\Debug\NetOgrenci.pdb
+C:\Documents and Settings\Nevzat\Desktop\NetOgrenci\NetOgrenci\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nevzat\Desktop\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.Form1.resources
+C:\Documents and Settings\Nevzat\Desktop\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.Properties.Resources.resources
+C:\Documents and Settings\Nevzat\Desktop\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.csproj.GenerateResource.Cache
+F:\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.exe
+F:\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.pdb
+H:\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.exe
+H:\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.pdb
+H:\NetOgrenci\NetOgrenci\bin\Debug\NetOgrenci.exe
+H:\NetOgrenci\NetOgrenci\bin\Debug\NetOgrenci.pdb
+H:\NetOgrenci\NetOgrenci\obj\Debug\ResolveAssemblyReference.cache
+H:\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.Form1.resources
+H:\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.Properties.Resources.resources
+H:\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.csproj.GenerateResource.Cache
+H:\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.Form2.resources
+F:\NetOgrenci\NetOgrenci\bin\Debug\NetOgrenci.exe
+F:\NetOgrenci\NetOgrenci\bin\Debug\NetOgrenci.pdb
+F:\NetOgrenci\NetOgrenci\obj\Debug\ResolveAssemblyReference.cache
+F:\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.Form1.resources
+F:\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.Form2.resources
+F:\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.Properties.Resources.resources
+F:\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.csproj.GenerateResource.Cache
+C:\Documents and Settings\Nevzat\Desktop\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.Form2.resources
+C:\Documents and Settings\Nevzat\Desktop\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.Form3.resources
+C:\Documents and Settings\Nevzat\Desktop\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.Form4.resources
+H:\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.Form3.resources
+H:\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.Form4.resources
+D:\Projeler\C# Projeler\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.exe
+D:\Projeler\C# Projeler\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.pdb
+G:\New folder\Projeler\C# Projeler\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.exe
+G:\New folder\Projeler\C# Projeler\NetOgrenci\NetOgrenci\obj\Debug\NetOgrenci.pdb

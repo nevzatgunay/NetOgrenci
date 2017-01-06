@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NetOgrenci">
+</Property><Property Name="Solution File" Value="G:\NetOgrenci\NetOgrenci.sln">
+</Property><Property Name="User Options File" Value="G:\NetOgrenci\NetOgrenci.suo">
+</Property><Property Name="Date" Value="27 Nisan 2011 Çarşamba">
+</Property><Property Name="Time" Value="14:08">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NetOgrenci.sln" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci.sln">
+</Event><Event ErrorLevel="0" Project="" Source="NetOgrenci.suo" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci.suo">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\NetOgrenci.csproj" Description="Project file successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\NetOgrenci.csproj">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Form1.cs" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Form1.cs">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Form1.Designer.cs" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Form2.cs" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Form2.cs">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Form2.Designer.cs" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Form3.cs" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Form3.cs">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Form3.Designer.cs" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Form4.cs" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Form4.cs">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Form4.Designer.cs" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Form4.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Program.cs" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Program.cs">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Properties\Resources.Designer.cs" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Properties\Settings.Designer.cs" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Properties\Settings.settings" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Form1.resx" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Form1.resx">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Form2.resx" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Form2.resx">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Form3.resx" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Form3.resx">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Form4.resx" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Form4.resx">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\Properties\Resources.resx" Description="File successfully backed up as G:\NetOgrenci\Backup1\NetOgrenci\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\NetOgrenci.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NetOgrenci" Source="NetOgrenci\NetOgrenci.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NetOgrenci.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NetOgrenci.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NetOgrenci" Source="NetOgrenci\NetOgrenci.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

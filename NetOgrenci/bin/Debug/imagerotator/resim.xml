@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<trackList>
+
+		<track>
+			<location>resim\1.jpg</location>
+		</track>
+		<track>
+			<location>resim\2.jpg</location>
+		</track>
+		<track>
+			<location>resim\3.jpg</location>
+		</track>
+		<track>
+			<location>resim\4.jpg</location>
+		</track>
+		<track>
+			<location>resim\5.jpg</location>
+		</track>
+		<track>
+			<location>resim\6.jpg</location>
+		</track>
+		<track>
+			<location>resim\7.jpg</location>
+		</track>
+		<track>
+			<location>resim\8.jpg</location>
+		</track>
+		<track>
+			<location>resim\9.jpg</location>
+		</track>
+		<track>
+			<location>resim\10.jpg</location>
+		</track>
+	</trackList>
+</playlist>
